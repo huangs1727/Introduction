@@ -17,10 +17,12 @@ Data Science Graduate Student at the University of Virginia with a background in
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, R |
+| **Languages** | Python, Dax |
 | **Data & Analytics** | Pandas, NumPy, MORE TO COME |
-| **DevOps & Tools** | GitHub, Jupyter, VS Code |
+| **DevOps & Tools** | GitHub, Jupyter, Anaconda, VS Code |
+| **Visualization** | Tableau, PowerBI |
 | **Methodologies** | PENDING! |
+
 
 ---
 
