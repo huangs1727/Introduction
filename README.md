@@ -1,5 +1,36 @@
-# Welcome to GitHub Desktop!
+# Hi there, I'm Susanna 👋
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Data Science Graduate Student at the University of Virginia with a background in economics, business, procurement analytics, and organizational strategy. I specialize in leveraging data workflows, statistical modeling, and operational frameworks to solve complex problems.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+---
+
+## 🚀 About Me
+
+- 🎓 **Currently:** Pursuing an M.S. in Data Science at UVA.
+- 🛠️ **Focus Areas:** Data strategy, workflow optimization, process automation, and applied analytics.
+- ✍️ **Writing:** Author of *The Susanna Index* on LinkedIn, exploring leadership, data-driven decisions, and organizational dynamics.
+- 🌱 **Learning:** Expanding my toolkit in machine learning, deep learning, and scalable pipeline design.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, R |
+| **Data & Analytics** | Pandas, NumPy, MORE TO COME |
+| **DevOps & Tools** | GitHub, Jupyter, VS Code |
+| **Methodologies** | PENDING! |
+
+---
+
+## 📂 Featured Projects
+
+### COMING SOON!
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** www.linkedin.com/in/susanna-huang-8694b4a4
+- 📝 **Newsletter:** *The Susanna Index* on LinkedIn
